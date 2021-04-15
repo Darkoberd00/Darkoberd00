@@ -5,6 +5,8 @@ University of Applied Sciences](https://www.fh-aachen.de/) in Aachen, Germany.
 ## 📲 Social Media
 [![Twitter](https://img.shields.io/twitter/follow/Darkoberd00?style=social)](https://twitter.com/Darkoberd00)
 
+[![Keybase](https://img.shields.io/keybase/pgp/Darkoberd00)](https://keybase.io/darkoberd00)
+
 ## 📊 Github Stats 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkoberd00&theme=tokyonight&show_icons=true)](https://github.com/Darkoberd00)
 
