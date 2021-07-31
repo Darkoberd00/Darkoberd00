@@ -1,6 +1,6 @@
 ## 👋 Hi there
-I'm 20 years old and a Student at Berufskolleg für Gestaltung und Technik in Aachen, Germany. And a becoming student at the [FH Aachen
-University of Applied Sciences](https://www.fh-aachen.de/) in Aachen, Germany.
+I'm 20 years old and a Student for Mathematical Technical Software Developer as dual training at [FH Aachen
+University of Applied Sciences](https://www.fh-aachen.de/) and [Institute for High-frequency Engineering of RWTH Aachen University](https://www.ihf.rwth-aachen.de)  in Aachen, Germany.
 
 ## 📲 Social Media
 [![Twitter](https://img.shields.io/twitter/follow/Darkoberd00?style=social)](https://twitter.com/Darkoberd00)
