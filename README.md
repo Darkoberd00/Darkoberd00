@@ -5,9 +5,7 @@ I'm 20 years old and a Student for Mathematical Technical Software Developer as 
 [![Editor](https://img.shields.io/static/v1?label=Editor&message=IntelliJ%20IDEA&color=347d39&logo=intellij%20idea)](https://www.jetbrains.com/de-de/idea/)
 
 ## 📲 Social Media
-[![Twitter](https://img.shields.io/twitter/follow/Darkoberd00?style=social)](https://twitter.com/Darkoberd00)
-
-[![Keybase](https://img.shields.io/keybase/pgp/Darkoberd00?color=347d39&label=Keybase&logo=keybase)](https://keybase.io/darkoberd00)
+[![Keybase](https://img.shields.io/keybase/pgp/Darkoberd00?color=347d39&label=Keybase&logo=keybase)](https://keybase.io/darkoberd00) [![Keybase](https://img.shields.io/badge/Linkedin-Phil%20Träger-347d39)](https://www.linkedin.com/in/phil-träger-60528a200/) [![Twitter](https://img.shields.io/badge/Twitter-Darkoberd00-347d39?logo=twitter)](https://twitter.com/Darkoberd00)
 
 
 
