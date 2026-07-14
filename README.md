@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darkoberd00/Phil</h1>
 <h3 align="center">A dedicated C# developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkoberd00&label=Profile%20views&color=0e75b6&style=flat" alt="darkoberd00" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkoberd00" alt="darkoberd00" /></a> </p>
 
 - 🔭 I’m currently working on [a Discord server website for my friends.](https://github.com/Sparkling-Ice-Tea)
@@ -35,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkoberd00&show_icons=true&locale=en" alt="darkoberd00" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkoberd00&" alt="darkoberd00" /></p>
-
